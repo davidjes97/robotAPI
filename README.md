@@ -4,23 +4,10 @@
 1. Clone repository to your machine.
 2. Using Visual Studio, run the solution.
 3. In your browser go to **'https://localhost:5001/swagger/index.html'**
-4. A swagger UI has been set up to interact with the API that was created
+4. A swagger UI has been set up to interact with the API that was created.
     I. Select the API call POST api/robots/closest
     II. Click the button **'Try it out'**
-    III. In the box below you can edit the payload to be whatever you want
-    
-    
-    
-    
-
-```
-{
-    loadId: 231, //Arbitrary ID of the load which needs to be moved.
-    x: 5, //Current x coordinate of the load which needs to be moved.
-    y: 3 //Current y coordinate of the load which needs to be moved.
-}
-```
-
+    III. In the box below you can edit the payload to be whatever you want.
    IV. After you edit the payload, press execute and you will see the API output below.
 
 ### What next?
