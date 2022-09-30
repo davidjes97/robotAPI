@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tqjkDhdVOmgrClHFLRy4D9uB5zA+XW+vOw6+yq+Nh+Y=",
+  "Source": "RobotManagementAPI",
+  "BasePath": "_content/RobotManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
