@@ -17,7 +17,7 @@
 }
 ```
 
-    IV. After you edit the payload, press execute and you will see the API output below.
+   IV. After you edit the payload, press execute and you will see the API output below.
 
 ### What next?
 
