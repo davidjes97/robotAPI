@@ -5,10 +5,10 @@
 2. Using Visual Studio, run the solution.
 3. In your browser go to **'https://localhost:5001/swagger/index.html'**
 4. A swagger UI has been set up to interact with the API that was created.
-    I. Select the API call POST api/robots/closest
-    II. Click the button **'Try it out'**
-    III. In the box below you can edit the payload to be whatever you want.
-   IV. After you edit the payload, press execute and you will see the API output below.
+    1. Select the API call POST api/robots/closest
+    2. Click the button **'Try it out'**
+    3. In the box below you can edit the payload to be whatever you want.
+    4. After you edit the payload, press execute and you will see the API output below.
 
 ### What next?
 
